@@ -31,7 +31,10 @@ Provide goals and description of the use case here.
 * Second reason
 
 ## Actionable Outcomes
-Workshop outcomes will include actionable plans to enable the broader research community to implement the software and data attribution practices that are identified and advanced by the participants of the workshop.  Articulate plans to implement this use case, as possible, into one or more of your projects subsequent to the workshop.
+Workshop outcomes will include actionable plans to enable the broader research community to 
+implement the software and data attribution practices that are identified and advanced by 
+the participants of the workshop.  Articulate plans to implement this use case, as possible, 
+into one or more of your projects subsequent to the workshop.
 
 ## Additional Information and Links
 * [An example link](https://softwaredatacitation.org/)
