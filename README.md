@@ -1,7 +1,7 @@
 Software and Data Citation Workshop
 ===================================
 
-This site contains Use Cases and products from the Software and Data Citation Workshop (thank you to Matt Jones of the organizing committe for setting up this Github site).  The main workshop website is found here: https://softwaredatacitation.org/.
+This site contains Use Cases and products from the Software and Data Citation Workshop (thank you to Matt Jones of the organizing committee for setting up this Github site).  The main workshop website is found here: https://softwaredatacitation.org/.
 
 ## Use Cases
 
