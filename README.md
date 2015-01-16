@@ -5,11 +5,11 @@ This site contains use cases and products from the Software and Data Citation Wo
 
 ## Use Cases
 
-This repository is mainly for use case development and discussion, and uses the standard GitHub issue tracker. You will need a GitHub account to be able to add use cases and discuss existing use cases.  For an example use case, see [Use Case #1](https://github.com/mbjones/software-data-citation-ws/issues/1).
+This repository is mainly for use case development and discussion, and uses the standard GitHub issue tracker. You will need a GitHub account to be able to add use cases and discuss existing use cases.  For an example use case, see [Use Case #1](https://github.com/researchsoftwareinstitute/software-data-citation-ws/issues/1).
 
 ### Adding a new use case
 
-1. Open the [Issues](https://github.com/mbjones/software-data-citation-ws/issues) section of this repository and click on New Issue.  
+1. Open the [Issues](https://github.com/researchsoftwareinstitute/software-data-citation-ws/issues) section of this repository and click on New Issue.  
 2. Provide  a short, descriptive title starting with "Use Case:"
 3. Add the appropriate labels, including one of `citing data`, `citing software`, and `use case`
 
