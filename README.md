@@ -1,7 +1,7 @@
 Software and Data Citation Workshop
 ===================================
 
-This site contains Use Cases and products from the Software and Data Citation Workshop (thank you to Matt Jones of the organizing committee for setting up this Github site).  The main workshop website is found here: https://softwaredatacitation.org/.
+This site contains use cases and products from the Software and Data Citation Workshop (thank you to Matt Jones of the organizing committee for setting up this Github site).  The main workshop website is found here: https://softwaredatacitation.org/.
 
 ## Use Cases
 
@@ -9,7 +9,7 @@ This repository is mainly for use case development and discussion, and uses the 
 
 ### Adding a new use case
 
-1. open the [Issues](https://github.com/mbjones/software-data-citation-ws/issues) section of this repository and click on New Issue.  
+1. Open the [Issues](https://github.com/mbjones/software-data-citation-ws/issues) section of this repository and click on New Issue.  
 2. Provide  a short, descriptive title starting with "Use Case:"
 3. Add the appropriate labels, including one of `citing data`, `citing software`, and `use case`
 
