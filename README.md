@@ -11,7 +11,7 @@ This repository is mainly for use case development and discussion, and uses the 
 
 ### Adding a new use case
 
-1. Open the [Issues](https://github.com/researchsoftwareinstitute/software-data-citation-ws/issues) section of this repository and click on New Issue.  
+1. Open the [Issues](https://github.com/researchsoftwareinstitute/software-data-citation-ws/issues) section of this repository and click on New Issue
 2. Provide  a short, descriptive title starting with "Use Case:"
 3. Add the appropriate labels, including one of `citing data`, `citing software`, and `use case`
 4. Leave the use case (i.e. GitHub Issue) "Open" as this allows the use case to remain visible in the list
