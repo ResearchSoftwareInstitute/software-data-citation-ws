@@ -16,7 +16,7 @@ This repository is mainly for use case development and discussion, and uses the 
 3. Add the appropriate labels, including one of `citing data`, `citing software`, and `use case`
 4. Leave the use case (i.e. GitHub Issue) "Open" as this allows the use case to remain visible in the list
 
-Please use the following Markdown template for new use cases to encourage some uniformity across the use cases. Copy and paste it into the body of your new issue, and then edit it to add your use case details before saving the issue to GitHub.
+Please use the following Markdown template for new use cases to encourage some uniformity across the use cases (please retain the specific #'s and *'s shown in the following template as this is something called Markdown Syntax used by GitHub). Copy and paste it into the body of your new issue, and then edit it to add your use case details before saving the issue to GitHub.
 
 ```markdown
 # Use Case: 
